@@ -10,3 +10,19 @@ body {
 .main {
   width: 960px;
 }
+.left {
+  background-color: #ffffff;
+  float: left;
+}
+.right {
+  background-color: #ffffff;
+  float: right;
+}
+.icons {
+  width: 58px;
+  float: left;
+  padding: 10px;
+}
+.icons img {
+  width: 56px;
+}
